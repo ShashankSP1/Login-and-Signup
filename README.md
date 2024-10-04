@@ -49,29 +49,15 @@ npm start
 
 
 Usage
-Navigate to http://localhost:3000 in your web browser to view the application.
+
+Navigate to http://localhost:3000/register in your web browser to view the application.
 Use the registration form to create a new account.
 Log in with the registered account to access protected resources.
+
 Contributing
-Fork the repository
-Create a new branch (git checkout -b feature/YourFeature)
-Make your changes
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/YourFeature)
-Open a pull request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-MERN Stack for the stack inspiration
-React Documentation for learning resources
-markdown
-Copy code
-
-### Additional Tips
-- **Images**: You can add screenshots of your application to illustrate its functionality.
-- **Badges**: Include badges for build status, license, etc., at the top of your README.
-- **Deployment**: If you deployed the app (e.g., using `gh-pages` or Heroku), include the link.
-- **Environment Variables**: Mention any environment variables needed for the application.
-
-Feel free to adjust the template based on your specific project and add any other relevant sections that
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/YourFeature)
+3. Make your changes
+4. Commit your changes (git commit -m 'Add some feature')
+5. Push to the branch (git push origin feature/YourFeature)
+6. Open a pull request
